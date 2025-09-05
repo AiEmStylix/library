@@ -4,5 +4,8 @@
   "scripts": {
     "dev": "pnpm -r --parallel dev",
     "build": "pnpm -r build"
+  },
+  "devDependencies": {
+    "unocss": "^66.5.0"
   }
 }
